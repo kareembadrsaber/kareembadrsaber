@@ -7,7 +7,7 @@
 ## About Me
 
 - 👀 I'm interested in software development, particularly in Python, C, and JavaScript.
-<img src="https://i.pinimg.com/originals/64/90/05/64900590d64aa4f46c69e649dacdc7a3.png" alt="Middle Image" width="1000" height="300">
+<img src="https://i.pinimg.com/originals/df/a1/1e/dfa11e0d76605325f841fe0c22d6ed8a.png" alt="Middle Image" width="1000" height="300">
 - 🌱 I'm currently learning various programming languages and exploring different areas of software engineering.
   
 - 💞️ I'm looking to collaborate on open-source projects and contribute to the community.
