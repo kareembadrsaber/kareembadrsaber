@@ -7,6 +7,7 @@
 ## About Me
 
 - 👀 I'm interested in software development, particularly in Python, C, and JavaScript.
+![middel Image](https://i.pinimg.com/originals/83/da/cb/83dacb7390c280d87b1af13e523a156d.jpg)
 - 🌱 I'm currently learning various programming languages and exploring different areas of software engineering.
 - 💞️ I'm looking to collaborate on open-source projects and contribute to the community.
 - 📫 You can reach me via email at [kimobadrsaber@gmail.com](mailto:kimobadrsaber@gmail.com).
@@ -19,4 +20,4 @@
 
 Feel free to reach out and connect with me. I'm always open to new opportunities and collaborations!
 
-![Bottom Image](https://i.pinimg.com/originals/5b/e8/9a/5be89a6faa0811d51f0ad1741c1b9c4a.jpg)
+![Bottom Image](https://i.pinimg.com/originals/0a/d8/ba/0ad8bacc092f5d5e1a33ab207fa5c677.jpg)
